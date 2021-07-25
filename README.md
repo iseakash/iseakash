@@ -26,7 +26,7 @@
 - ⚡ Fun fact: I spend weekends on adventure.
 
 [![Linkedin: iseakash](https://img.shields.io/badge/-akash_gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/iseakash/)](https://linkedin.com/in/iseakash/)
-[![GitHub iseakash](https://img.shields.io/github/followers/iseakash?label=follow&style=social)](https://github.com/iseakash)
+[![GitHub iseakash](https://img.shields.io/github/followers/iseakash?label=follow_Akash&style=social)](https://github.com/iseakash)
 
 
 *Languages and Tools:*  
