@@ -25,7 +25,7 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: I spend weekends on adventure.
 
-[![Linkedin: iseakash](https://img.shields.io/badge/-iseakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/iseakash/)](https://linkedin.com/in/iseakash/)
+[![Linkedin: iseakash](https://img.shields.io/badge/-akash_gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/iseakash/)](https://linkedin.com/in/iseakash/)
 [![GitHub iseakash](https://img.shields.io/github/followers/iseakash?label=follow&style=social)](https://github.com/iseakash)
 
 
