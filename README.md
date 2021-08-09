@@ -16,7 +16,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on Data Science.
+- 🔭 I’m currently working on Data Science and AI projects.
 - 🌱 I’m currently learning more about Computer Vision and NLP.
 - 👯 I’m looking to collaborate on some projects.
 - 🤔 I’m looking for help with object tracking.
