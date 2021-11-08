@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on Data Science and AI projects.
 - 🌱 I’m currently learning more about Computer Vision and NLP.
-- 👯 I’m looking to collaborate on some projects.
+- 👯 I’m looking to collaborate on any data science projects.
 - 🤔 I’m looking for help with object tracking.
 - 💬 Ask me about Power BI or any tech-related stuff.
 - 📫 How to reach me: akashgpt04011995@gmail.com
