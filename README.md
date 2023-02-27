@@ -32,13 +32,13 @@
 *Languages and Tools:*  
 
 <code><img height="20" src="https://avatars.githubusercontent.com/u/5997976?s=400&amp;v=4"></code>
-<code><img height="20" src="https://miro.medium.com/max/1200/1*4br4WmxNo0jkcsY796jGDQ.jpeg"></code>
-<code><img height="20" src="https://seeklogo.com/images/Q/qt-small-logo-E980A7F727-seeklogo.com.png"></code>
 <code><img height="20" src="https://engineering.fb.com/wp-content/uploads/2016/05/2000px-Python-logo-notext.svg_.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_macos_bigsur_icon_189957.png"></code>
 <code><img height="20" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-512x412-8rnz6wkz.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/Q/qt-small-logo-E980A7F727-seeklogo.com.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/512/power-bi.png"></code>
 
 <div align="center">
 
