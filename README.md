@@ -31,7 +31,7 @@
 
 *Languages and Tools:*  
 
-<code><img height="20" src="https://www.gstatic.com/devrel-devsite/prod/v777b98ff1be68f1af7b3b25f83928f30c18a7dbd2a5bebb30a0e65cbbadfd895/tensorflow/images/lockup.svg?dcb_=0.2589011531342629"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/5997976?s=400&amp;v=4"></code>
 <code><img height="20" src="https://miro.medium.com/max/1200/1*4br4WmxNo0jkcsY796jGDQ.jpeg"></code>
 <code><img height="20" src="https://seeklogo.com/images/Q/qt-small-logo-E980A7F727-seeklogo.com.png"></code>
 <code><img height="20" src="https://engineering.fb.com/wp-content/uploads/2016/05/2000px-Python-logo-notext.svg_.png"></code>
