@@ -38,9 +38,10 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_macos_bigsur_icon_189957.png"></code>
+<code><img height="20" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-512x412-8rnz6wkz.png"></code>
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring some of my repositories!
 
 </div>
