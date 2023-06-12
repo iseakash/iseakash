@@ -1,4 +1,4 @@
-## Hello, I'm Akash Gupta! 👋
+## Data Scientist 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iseakash&label=Views&color=blue&style=plastic" alt="iseakash" /> </p>
 
