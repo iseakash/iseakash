@@ -16,14 +16,11 @@
 <br/>
 
 
-- 🔭 I’m currently working on Data Science and AI projects.
-- 🌱 I’m currently learning more about Computer Vision and NLP.
+- 🔭 I’m currently working as a Data Scientist targeting to reduce food waste by improving system efficiency.
 - 👯 I’m looking to collaborate on any data science projects.
-- 🤔 I’m looking for help with object tracking.
-- 💬 Ask me about Power BI or any tech-related stuff.
+- 💬 Expertise: Python, R, SQL, Power BI, SeeQ, GCP, Vertex AI, Excel.
 - 📫 How to reach me: akashgpt04011995@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I spend weekends on adventure.
 
 [![Linkedin: iseakash](https://img.shields.io/badge/-akash_gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/iseakash/)](https://linkedin.com/in/iseakash/)
 [![GitHub iseakash](https://img.shields.io/github/followers/iseakash?label=follow&style=social)](https://github.com/iseakash)
