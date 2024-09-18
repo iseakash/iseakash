@@ -19,7 +19,7 @@
 - 🔭 I’m currently working as a Data Scientist targeting to reduce food waste by improving system efficiency.
 - 👯 I’m looking to collaborate on any data science projects.
 - 💬 Expertise: Python, R, SQL, Power BI, SeeQ, GCP, Vertex AI, Excel.
-- 📫 How to reach me: akashgpt04011995@gmail.com
+- 📫 How to reach me: iseakash@gmail.com
 - 😄 Pronouns: He
 
 [![Linkedin: iseakash](https://img.shields.io/badge/-akash_gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/iseakash/)](https://linkedin.com/in/iseakash/)
